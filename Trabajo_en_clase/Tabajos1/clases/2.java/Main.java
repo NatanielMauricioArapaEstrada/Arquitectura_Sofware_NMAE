@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         VentaFacade ventaFacade = new VentaFacade();
+        
 
         while (true) {
             System.out.println("\n===== MINI SUPERMERCADO =====");
